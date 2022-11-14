@@ -22,10 +22,10 @@ plugins=(
     zsh-autosuggestions
     gitignore
     cp
-    per-directory-history
     safe-paste
     colored-man-pages
     history-substring-search
+    tmux
 )
 
 source $ZSH/oh-my-zsh.sh
